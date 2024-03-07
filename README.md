@@ -1,2 +1,2 @@
 # HohhotLLM
-Urban Large Language Model of Hohhot (呼和浩特城市大模型)
+Urban Large Language Model for Hohhot (呼和浩特城市大模型)
