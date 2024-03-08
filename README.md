@@ -1,4 +1,4 @@
-# HohhotLLM
+[# HohhotLLM
 ## AI Assistant for Hohhot City Culture  (呼和浩特城市文化AI助手)
 国内在垂直领域大模型的研究方面已经取得了显著的进展。随着深度学习技术的不断发展和计算能力的提升，越来越多的研究者开始关注如何利用大模型来解决特定领域的问题。
 本项目基于Langchain为基础，结合LLM大语言模型，并以丰富的呼和浩特城市数据为基础构建了本地问答知识库来宣传呼和浩特的城市文化。
@@ -176,3 +176,4 @@ python run_gradio.py
 ## 致谢
 本项目由内蒙古大学计算机学院（软件学院）徐荣建发起，得到了内蒙古大学计算机学院（软件学院）刘瑞实验室的支撑，同时致谢内蒙古大学计算机学院。
 
+](https://github.com/AI-S2-Lab/HohhotBrain)https://github.com/AI-S2-Lab/HohhotBrain
