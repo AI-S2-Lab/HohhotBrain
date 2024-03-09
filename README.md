@@ -49,7 +49,7 @@ InternLM2 series are released with the following features:
 * 克隆本项目
 ```bash
 cd ~
-git clone https://github.com/R2-xurongjian/my_HohhotLLM.git
+git clone https://github.com/AI-S2-Lab/HohhotBrain.git
 ```
 * 下载模型    
 本项目使用的LLM模型为复旦大学研发的InternLM（书生·浦语）大语言模型，建议手动在huggingface上下载模型也可以git下载
@@ -176,7 +176,8 @@ python run_gradio.py
 
 ## 致谢
 本项目由内蒙古大学计算机学院 语音理解与生成实验室（[S2Lab](https://ttslr.github.io)）刘瑞 研究员主导开发。
+
 实验室本科生 [@徐荣建](https://github.com/R2-xurongjian) 为该项目主要成员。
 
-同时致谢“蒙古文智能信息处理国家地方工程联合研究中心”、“内蒙古蒙古文信息处理重点实验室”和“内蒙古大学计算机学院”的大力支持。
+同时致谢"**蒙古文智能信息处理技术国家地方联合工程研究中心**","**内蒙古自治区蒙古文信息处理技术重点实验室室**"和"**内蒙古大学计算机学院**"的大力支持。
 
