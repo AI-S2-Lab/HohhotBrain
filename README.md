@@ -12,7 +12,7 @@
 ## 简介
    在学术界，一些研究团队开始尝试将Langchain的思想应用于本地知识库的构建。他们致力于通过构建知识图谱、整合领域专家知识等方式，建立起丰富的本地知识库，并结合大型语言模型进行问题回答。这些研究旨在提高问答系统对中文语境的理解和处理能力，使其能够更准确地回答用户的问题。本文就是基于Langchain框架构建本地的知识库并接入LLM模型来构建的一个基于语言模型的呼和浩特AI智慧大脑，助力呼和浩特文化宣传！
 <p align="center">
-    <img src="./figure/Langchain.jpeg" width=900px/>
+    <img src="./figure/Langchain.jpeg" width=200px/>
 </p>
 
 我们选择了 [InternLM大语言模型](https://github.com/InternLM/InternLM) 作为底座大语言模型，进行了**本地知识库的接入**，旨在提升模型的针对呼和浩特地区的交流问答能力。之所以选择InternLM模型原因如下：
