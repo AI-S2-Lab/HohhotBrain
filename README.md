@@ -131,7 +131,7 @@ python run_gradio.py
 
 * 样例1：介绍一下呼和浩特的文化
 <p align="center">
-    <img src="./figure/文化2.png" width=900px/>
+    <img src="./figure/文化.png" width=900px/>
 </p>
 
 * 样例2：介绍一下呼和浩特的大昭寺
