@@ -1,5 +1,6 @@
-[# HohhotLLM
-## AI Assistant for Hohhot City Culture  (呼和浩特城市文化AI助手)
+# HohhotBrain
+
+## LLM-based Hohhot AI Smart Brain (基于大语言模型的呼和浩特AI智慧大脑)
 国内在垂直领域大模型的研究方面已经取得了显著的进展。随着深度学习技术的不断发展和计算能力的提升，越来越多的研究者开始关注如何利用大模型来解决特定领域的问题。
 本项目基于Langchain为基础，结合LLM大语言模型，并以丰富的呼和浩特城市数据为基础构建了本地问答知识库来宣传呼和浩特的城市文化。
 * LangChain是一个基于大语言模型（如ChatGPT）用于构建端到端语言模型应用的Python框架。[Langchain](https://github.com/langchain-ai/langchain)    
@@ -174,6 +175,8 @@ python run_gradio.py
 * 您不得利用HohhotLLM模型从事任何危害国家安全和国家统一、危害社会公共利益、侵犯人身权益的行为。
 
 ## 致谢
-本项目由内蒙古大学计算机学院（软件学院）徐荣建发起，得到了内蒙古大学计算机学院（软件学院）刘瑞实验室的支撑，同时致谢内蒙古大学计算机学院。
+本项目由内蒙古大学计算机学院 语音理解与生成实验室（[S2Lab](https://ttslr.github.io)）刘瑞 研究员主导开发。
+实验室本科生 @徐荣建 为该项目主要成员。
 
-](https://github.com/AI-S2-Lab/HohhotBrain)https://github.com/AI-S2-Lab/HohhotBrain
+同时致谢“蒙古文智能信息处理国家地方工程联合研究中心”、“内蒙古蒙古文信息处理重点实验室”和“内蒙古大学计算机学院”的大力支持。
+
